@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/drawable/custom_input.xml" value="0.1046875" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/drawable/top_background_blue.xml" value="0.20833333333333334" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-land/activity_add_product.xml" value="0.1" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-land/activity_dash_board.xml" value="0.1" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-land/activity_edit_product.xml" value="0.1" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-land/activity_login.xml" value="0.1" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-land/activity_main.xml" value="0.33" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-land/activity_register.xml" value="0.1" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-land/activity_splash.xml" value="0.1626984126984127" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-land/product_item.xml" value="0.33" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw480dp-land/activity_add_product.xml" value="0.12349397590361445" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw480dp-land/activity_dash_board.xml" value="0.3455056179775281" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw480dp-land/activity_edit_product.xml" value="0.3455056179775281" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw480dp-land/activity_login.xml" value="0.3455056179775281" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw480dp-land/activity_main.xml" value="0.3455056179775281" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw480dp-land/activity_register.xml" value="0.3455056179775281" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw480dp-land/activity_splash.xml" value="0.3455056179775281" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw480dp-land/product_item.xml" value="0.3455056179775281" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw480dp/activity_add_product.xml" value="0.144140625" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw480dp/activity_dash_board.xml" value="0.46125" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw480dp/activity_edit_product.xml" value="0.5" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw480dp/activity_login.xml" value="0.42063492063492064" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw480dp/activity_main.xml" value="0.42063492063492064" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp-land/activity_add_product.xml" value="0.12349397590361445" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp-land/activity_dash_board.xml" value="0.12617135207496652" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp-land/activity_edit_product.xml" value="0.18" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp-land/activity_login.xml" value="0.14" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp-land/activity_main.xml" value="0.12617135207496652" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp-land/activity_register.xml" value="0.12617135207496652" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp-land/activity_splash.xml" value="0.12617135207496652" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp-land/product_item.xml" value="0.12617135207496652" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp/activity_add_product.xml" value="0.2" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp/activity_dash_board.xml" value="0.144140625" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp/activity_edit_product.xml" value="0.2" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp/activity_login.xml" value="0.13" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.144140625" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp/activity_register.xml" value="0.12" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp/activity_splash.xml" value="0.144140625" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw600dp/product_item.xml" value="0.147265625" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp-land/activity_add_product.xml" value="0.12349397590361445" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp-land/activity_dash_board.xml" value="0.12349397590361445" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp-land/activity_edit_product.xml" value="0.1" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp-land/activity_login.xml" value="0.12349397590361445" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp-land/activity_main.xml" value="0.12349397590361445" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp-land/activity_register.xml" value="0.12349397590361445" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp-land/activity_splash.xml" value="0.12349397590361445" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp-land/product_item.xml" value="0.12349397590361445" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp/activity_add_product.xml" value="0.144140625" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp/activity_dash_board.xml" value="0.144140625" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp/activity_edit_product.xml" value="0.144140625" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp/activity_login.xml" value="0.144140625" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp/activity_main.xml" value="0.144140625" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp/activity_register.xml" value="0.144140625" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp/activity_splash.xml" value="0.144140625" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-sw720dp/product_item.xml" value="0.144140625" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-w320dp-land/activity_add_product.xml" value="0.1626984126984127" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-w320dp-land/activity_dash_board.xml" value="0.1626984126984127" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-w320dp-land/activity_edit_product.xml" value="0.1626984126984127" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-w320dp-land/activity_login.xml" value="0.1626984126984127" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-w320dp-land/activity_main.xml" value="0.1626984126984127" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-w320dp-land/activity_register.xml" value="0.1626984126984127" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-w320dp-land/activity_splash.xml" value="0.1626984126984127" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-w320dp-land/product_item.xml" value="0.1626984126984127" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-w320dp/activity_add_product.xml" value="0.19202898550724637" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-w320dp/activity_login.xml" value="0.1576923076923077" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-w320dp/activity_main.xml" value="0.1576923076923077" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-w320dp/activity_register.xml" value="0.1576923076923077" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout-w320dp/product_item.xml" value="0.17889492753623187" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout/activity_add_product.xml" value="0.33" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout/activity_dash_board.xml" value="0.18659420289855072" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout/activity_edit_product.xml" value="0.18659420289855072" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout/activity_fullscreen.xml" value="0.18885869565217392" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout/activity_splash.xml" value="0.12771739130434784" />
+        <entry key="..\:/CESDE CLASES/Desarrollo Sofware REMESTRE #3 - 2021/Aplicaciones Moviles 2 Androi Estudio/MA_BOUTIQUE_ONLINE/app/src/main/res/layout/product_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
